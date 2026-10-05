@@ -1,0 +1,6 @@
+{
+  "name": "Vanguard Executive Fluency",
+  "description": "Gamified business English mastery and speech recognition simulation for adult professionals, covering advanced grammar, academic vocabulary, and executive boardroom scenarios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
